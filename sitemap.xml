@@ -11,43 +11,55 @@
 
   <url>
        <loc>https://prologika.com.ua/</loc>
-       <lastmod>2022-04-28T10:43:24+00:00</lastmod>
+       <lastmod>2022-05-09T10:47:45+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>1.0000</priority>
   </url>
   <url>
+       <loc>https://prologika.com.ua/filiy.html</loc>
+       <lastmod>2022-05-09T10:47:45+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://prologika.com.ua/facults.html</loc>
+       <lastmod>2022-05-09T10:47:45+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
        <loc>https://prologika.com.ua/servis_remont_pc.html</loc>
-       <lastmod>2022-04-28T10:43:24+00:00</lastmod>
+       <lastmod>2022-05-09T10:47:45+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://prologika.com.ua/news_blog_pc.html</loc>
-       <lastmod>2022-04-28T10:43:24+00:00</lastmod>
+       <lastmod>2022-05-09T10:47:45+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://prologika.com.ua/course_office.html</loc>
-       <lastmod>2022-04-28T10:43:24+00:00</lastmod>
+       <lastmod>2022-05-09T10:47:45+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://prologika.com.ua/course_graphics.html</loc>
-       <lastmod>2022-04-28T10:43:24+00:00</lastmod>
+       <lastmod>2022-05-09T10:47:45+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://prologika.com.ua/course_webprogram.html</loc>
-       <lastmod>2022-04-28T10:43:24+00:00</lastmod>
+       <lastmod>2022-05-09T10:47:45+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
        <loc>https://prologika.com.ua/index.html</loc>
-       <lastmod>2022-04-28T10:43:24+00:00</lastmod>
+       <lastmod>2022-05-09T10:47:45+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
