@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://prologic.netlify.app/</loc>
+       <lastmod>2023-11-11T18:07:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://prologic.netlify.app/filiy</loc>
+       <lastmod>2023-11-11T18:07:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://prologic.netlify.app/facults</loc>
+       <lastmod>2023-11-11T18:07:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://prologic.netlify.app/servis_remont_pc</loc>
+       <lastmod>2023-11-11T18:07:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://prologic.netlify.app/news_blog_pc</loc>
+       <lastmod>2023-11-11T18:07:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://prologic.netlify.app/course_office</loc>
+       <lastmod>2023-11-11T18:07:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://prologic.netlify.app/course_graphics</loc>
+       <lastmod>2023-11-11T18:07:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://prologic.netlify.app/course_webprogram</loc>
+       <lastmod>2023-11-11T18:07:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+</urlset>
